@@ -1,0 +1,9 @@
+{
+	"name": "covid-reporting-test-br",
+	"location": "brazilsouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "de08aede-080f-41cb-91c2-abf6c3477d03",
+		"tenantId": "72f58964-61a5-43f5-8981-97f81860339c"
+	}
+}
